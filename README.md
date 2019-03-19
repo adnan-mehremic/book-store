@@ -1,6 +1,5 @@
 # book-store
-This program contains frontend and backend code for a bookstore app with a simple graphical user interface (GUI) built with Tkinter library.  :books:
-
+**Our GUI book store app**
 
 [![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/CrBMxAP.png)]()
 
@@ -11,7 +10,6 @@ This program contains frontend and backend code for a bookstore app with a simpl
 
 - [Description](#description)
 - [Dependencies](#dependencies)
-- [License](#license)
 - [Author Info](#author-info)
 
 ---
